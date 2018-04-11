@@ -1,3 +1,17 @@
 <resources>
+
+    <!--App name-->
     <string name="app_name">Hallo Android</string>
+
+    <!-- Greeting -->
+    <string name="welcome">"Greetings, nice of you to start me. Can you please tell me your name?     "</string>
+
+    <!-- personal greeting -->
+    <string name="hello">"Hi %1$s. I am happy to see you\n    "</string>
+
+    <!-- Button Text -->
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+
+
 </resources>
